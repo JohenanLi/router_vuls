@@ -136,3 +136,6 @@ Since the firmware for version V5 is encrypted and cannot be opened from the off
 
 ## 20. AC15 &nbsp;&nbsp; V15.03.05.18 && V15.03.05.19
 ![websReadEvent/crash_image/ac15.png](./crash_image/ac15.png)
+
+# Discoverer
+The vulnerability was discovered by Professor Wei Zhou's team (IoTS&P Lab) from the School of Cyber Science and Engineering at Huazhong University of Science and Technology.

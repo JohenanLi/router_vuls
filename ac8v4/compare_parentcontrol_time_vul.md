@@ -49,3 +49,6 @@ response = requests.post(url, headers=headers, data=data)
 After executing the `sscanf` function, the `ra` register was modified, causing the return address of the function to be incorrect, as shown in the figure below.
 ![registers1](images/ra1.png)
 ![registers2](images/ra2.png)
+
+# Discoverer
+The vulnerability was discovered by Professor Wei Zhou's team (IoTS&P Lab) from the School of Cyber Science and Engineering at Huazhong University of Science and Technology.

@@ -38,3 +38,7 @@ response = requests.post(url, data=data)
 ![python-poc-crash](images/python_crash_scqv.png)
 
 ![httpd-segmentfault](images/httpd_crash_scqv.png)
+
+
+# Discoverer
+The vulnerability was discovered by Professor Wei Zhou's team (IoTS&P Lab) from the School of Cyber Science and Engineering at Huazhong University of Science and Technology.
